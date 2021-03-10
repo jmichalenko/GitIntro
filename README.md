@@ -22,7 +22,7 @@ This is where Git comes in.  Git is a tool that tracks version history.  You hav
 
 1. Register for an account on [github.com](https://github.com/).
 
-__***CS50 IDE already has git installed.  But the instructions below are included incase you want to install git on a computer at home.***__
+__***[CS50IDE](https://ide.cs50.io/) already has git installed.  But the instructions below are included incase you want to install git on a computer at home.***__
 
 2. [Download](https://git-scm.com/downloads), install, and [configure](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) git. Windows users please install [Git for Windows](https://gitforwindows.org/).
 3. Configure git in your local environment (CS50 IDE) by typing in the following commands (Be sure to replace the information in quotes with your infromation:
