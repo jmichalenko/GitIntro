@@ -78,7 +78,7 @@ We can check that the change was commited to the master timeline by typing:
 ```
 git log
 ```
-video https://youtu.be/tI2H9gLmm0M
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tI2H9gLmm0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Creating Branches
@@ -101,7 +101,7 @@ You can also check what branches you have:
 ```
 git branch
 ```
-video https://youtu.be/PnMkr8ASQcU 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PnMkr8ASQcU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Github
@@ -112,7 +112,7 @@ Navigate to github.com, and login (create an account if you havn't already).  In
 
 After you create the repo, you should be able to copy the url for that repo.
 
-video https://youtu.be/Hdcf57q3QCY 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hdcf57q3QCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now, we want to link our local git repository with the cloud based github repository.
 
@@ -144,7 +144,7 @@ Now that we know how to push information to Github, we should also know how to m
 
 Lets add an additional hobby in the github cloud based editor in the file MyBio.txt on branch MyBioV1.
 
-video https://youtu.be/rPT93lAVYfk 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rPT93lAVYfk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __To avoid any conflicts, always "pull" the repo to your local machine. This will update any cloud based changes onto your local machine.  Do this before you start making changes to your local repo.  Otherwise you will get ugly conflicts!__
 
