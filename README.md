@@ -79,9 +79,8 @@ We can check that the change was commited to the master timeline by typing:
 ```
 git log
 ```
-{% video https://youtu.be/tI2H9gLmm0M %}
+video https://youtu.be/tI2H9gLmm0M
 
-{% next %}
 
 # Creating Branches
 Lets now assume that I want to make a change to my file, that I just want to try out.  Lets make a new branch:
@@ -103,9 +102,8 @@ You can also check what branches you have:
 ```
 git branch
 ```
-{% video https://youtu.be/PnMkr8ASQcU %}
+video https://youtu.be/PnMkr8ASQcU 
 
-{% next %}
 
 # Github
 
@@ -115,7 +113,7 @@ Navigate to github.com, and login (create an account if you havn't already).  In
 
 After you create the repo, you should be able to copy the url for that repo.
 
-{% video https://youtu.be/Hdcf57q3QCY %}
+video https://youtu.be/Hdcf57q3QCY 
 
 Now, we want to link our local git repository with the cloud based github repository.
 
@@ -127,7 +125,7 @@ To double check the link worked properly:
 ```
 git remote show origin
 ```
-{% next %}
+
 # Pushing to GitHub
 Now that our local repo is linked to github, we can push the changes locally to the cloud.
 Lets push the master branch first.
