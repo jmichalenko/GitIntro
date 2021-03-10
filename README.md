@@ -1,10 +1,10 @@
 # Introduction to Git
 
 In this lab you will learn:
--What Git is
--What GitHub is
--How to set up a 'local' Git repositroy
--How to push changes from your local machine to the cloud
+* What Git is
+* What GitHub is
+* How to set up a 'local' Git repositroy
+* How to push changes from your local machine to the cloud
 
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
