@@ -53,7 +53,6 @@ touch MyBio.txt
 
 7.  Double click on the file to edit it.  Type in your name, and a fake student number.
 
-{% next %}  
 
 # Git Workflow
 ![gitTimeline](https://raw.githubusercontent.com/jmichalenko/cs50labs/2020/gitIntro/gitWorkflow.png)
