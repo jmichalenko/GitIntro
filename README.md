@@ -10,13 +10,13 @@ Git is a version control system that lets you manage and keep track of your sour
 
 Imagine a situation where you are writing an essay, and you decide to make some changes.  After reading the changes, you realize the essay just isn't going in the direction you want, and would like to go back to the version you had before you made the changes.  You realize that you saved your new version with the same name, and have lost your original version ---- OH NO!
 
-{% next %}
+
 
 This is where Git comes in.  Git is a tool that tracks version history.  You have a master timeline, and can create branches off of that timeline.  You can keep the changes on separate branches, or if you decide you like the changes, you can "merge" the changes back to the master timeline.
 
 ![gitTimeline](https://raw.githubusercontent.com/jmichalenko/cs50labs/2020/gitIntro/gitTimeline.png)
 
-{% next %}
+
 
 # Install & Configure Git
 
@@ -133,7 +133,7 @@ Lets push the master branch first.
 git push master origin
 ```
 Now go to github and you should see that your MyBio.txt file has been added to the cloud based repositiory.
-{% next %}
+
 # Pushing Branches
 Now lets puch the branch MyBioV1
 ```
@@ -145,7 +145,7 @@ Now that we know how to push information to Github, we should also know how to m
 
 Lets add an additional hobby in the github cloud based editor in the file MyBio.txt on branch MyBioV1.
 
-{% video https://youtu.be/rPT93lAVYfk %}
+video https://youtu.be/rPT93lAVYfk 
 
 __To avoid any conflicts, always "pull" the repo to your local machine. This will update any cloud based changes onto your local machine.  Do this before you start making changes to your local repo.  Otherwise you will get ugly conflicts!__
 
@@ -156,4 +156,4 @@ The changes that were made in the cloud should now be changed in your local repo
 
 # Hand in your work
 To hand this lab in, add jmichalenko as a collaborator to your new github repo.  Settings, Manage access, add collaborator.
-{% video https://youtu.be/tcnOzea-OA8 %}
+video https://youtu.be/tcnOzea-OA8 
