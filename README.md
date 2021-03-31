@@ -97,6 +97,8 @@ You should now be able to switch between the branches and see the different vers
 git checkout master
 git checkout MyBioV1
 ```
+**Be careful not to make a change to the same file on separate branches and then try to merge them back together, or git will not know which change you would like to keep. You will get a merge error.  There is a way to reconcile this after, but that is for another lesson.**
+
 You can also check what branches you have:
 ```
 git branch
