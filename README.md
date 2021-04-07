@@ -131,7 +131,7 @@ git remote show origin
 Now that our local repo is linked to github, we can push the changes locally to the cloud.
 Lets push the master branch first.
 ```
-git push master origin
+git push origin master
 ```
 Now go to github and you should see that your MyBio.txt file has been added to the cloud based repositiory.
 
