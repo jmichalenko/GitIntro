@@ -25,7 +25,7 @@ This is where Git comes in.  Git is a tool that tracks version history.  You hav
 __***[CS50IDE](https://ide.cs50.io/) already has git installed.  But the instructions below are included incase you want to install git on a computer at home.***__
 
 2. [Download](https://git-scm.com/downloads), install, and [configure](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) git. Windows users please install [Git for Windows](https://gitforwindows.org/).
-3. Configure git in your local environment (CS50 IDE) by typing in the following commands (Be sure to replace the information in quotes with your infromation:
+3. Configure git in your local environment (e.g VSCode for Windows) by typing in the following commands (Be sure to replace the information in quotes with your infromation:
 
 ```
 $ git config --global user.name "FirstName LastName"
@@ -45,10 +45,10 @@ git init
 ```
 This sets up a hidden folder within your MyBio folder that will keep track of version changes.  You should also see (Master) beside your prompt now.
 
-6.  Create a file in your new directory by using the touch command:
+6.  Create a file in your new directory by using the touch command, or the 'code' command:
 
 ```
-touch MyBio.txt
+touch MyBio.txt  or code MyBio.txt
 ```
 
 7.  Double click on the file to edit it.  Type in your name, and a fake student number.
